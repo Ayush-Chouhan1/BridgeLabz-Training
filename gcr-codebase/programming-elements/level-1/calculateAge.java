@@ -1,6 +1,6 @@
 import java.util.Scanner;
  public class calculateAge{
-   public void main(String[] args){
+   public static void main(String[] args){
         String name = "Harry";
         int birthYear = 2000;
         int currentYear = 2024;
