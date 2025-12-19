@@ -1,0 +1,42 @@
+import java.util.Scanner;
+
+
+class AgeHeight {
+
+    public static void main(String[] args) {
+        // creating scanner class object
+        Scanner scanner = new Scanner(System.in);
+
+        String[] names = {"Amar", "Akbar", "Anthony"};
+        int[] ages = new int[3];
+        double[] heights = new double[3];
+
+        // Input data
+        for (int i = 0; i < names.length; i++) {
+            System.out.print("Enter age of " + names[i]);
+            ages[i] = scanner.nextInt();
+
+            System.out.print("Enter height of " + names[i]);
+            heights[i] = scanner.nextDouble();
+        }
+
+        int youngestIndex = 0;
+        int tallestIndex = 0;
+
+        for (int i = 1; i < names.length; i++) {
+            if (ages[i] < ages[youngestIndex]) {
+                youngestIndex = i;
+            }
+            if (heights[i] > heights[tallestIndex]) {
+                tallestIndex = i;
+            }
+        }
+
+        // displaying result
+        System.out.println("Youngest Friend: " + names[youngestIndex]);
+        System.out.println("Tallest Friend: " + names[tallestIndex]);
+
+        // closing scanner
+        scanner.close();
+    }
+}
