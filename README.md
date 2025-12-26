@@ -20,7 +20,9 @@
 - Understood repository structure and submission process.
 
 *🔗 Repository Link:*  
-https://github.com/Ayush-Chouhan1/BridgeLabz-Training/tree/core-java-practice
+[day 1 practice] (https://github.com/Ayush-Chouhan1/BridgeLabz-Training/tree/core-java-practice)
+
+---
 
 ## 📅 Day 2 – Git Setup, Repo Structure & Basic Java Programs  
 *(Date: 16-Dec-2025)*
@@ -50,9 +52,12 @@ BridgeLabz-Training/
 │── README.md
 
 *🔗 Repository Structure Link:*  
-https://github.com/Ayush-Chouhan1/BridgeLabz-Training/tree/core-java-practice
+[repository structure] (https://github.com/Ayush-Chouhan1/BridgeLabz-Training/tree/core-java-practice)
+
+
 *🔗 Basic java programs Link:* 
-https://github.com/Ayush-Chouhan1/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/program-prerequisite
+[day 2 practice] (https://github.com/Ayush-Chouhan1/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/program-prerequisite)
+
 ---
 
 ## 📅 Day 3 – Programming Elements in Java  
@@ -66,7 +71,8 @@ https://github.com/Ayush-Chouhan1/BridgeLabz-Training/tree/core-java-practice/gc
 - Committed and pushed solutions to repository.
 
 *🔗 Code Link:*  
-https://github.com/Ayush-Chouhan1/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/programming-elements
+[day 3 practice] (https://github.com/Ayush-Chouhan1/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/programming-elements)
+
 ---
 
 ## 📅 Day 4 – Java Control Flow  
@@ -81,7 +87,8 @@ https://github.com/Ayush-Chouhan1/BridgeLabz-Training/tree/core-java-practice/gc
 - Submitted *Control Flow Practice Programs*.
 
 *🔗 Code Link:*  
-https://github.com/Ayush-Chouhan1/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/control-flows
+[day 4 practice] (https://github.com/Ayush-Chouhan1/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/control-flows)
+
 ---
 
 ## 📅 Day 5 – Java Arrays  
@@ -95,7 +102,8 @@ https://github.com/Ayush-Chouhan1/BridgeLabz-Training/tree/core-java-practice/gc
 - Updated arrays folder and pushed to GitHub.
 
 *🔗 Code Link:*  
-https://github.com/Ayush-Chouhan1/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/arrays
+[day 5 practice] (https://github.com/Ayush-Chouhan1/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/arrays)
+
 ---
 
 ## 📅 Day 6 – Java Methods  
@@ -110,7 +118,8 @@ https://github.com/Ayush-Chouhan1/BridgeLabz-Training/tree/core-java-practice/gc
 - Maintained proper project folder structure.
 
 *🔗 Code Link:*  
-https://github.com/Ayush-Chouhan1/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/methods
+[day 6 practice] (https://github.com/Ayush-Chouhan1/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/methods)
+
 ---
 
 ## 📅 Day 7 – Java Strings  
@@ -126,7 +135,8 @@ https://github.com/Ayush-Chouhan1/BridgeLabz-Training/tree/core-java-practice/gc
 - Submitted *Submissions on Java String Practices*.
 
 *🔗 Code Link:*  
-https://github.com/Ayush-Chouhan1/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/Strings
+[day 7 practice] (https://github.com/Ayush-Chouhan1/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/Strings)
+
 ---
 
 ## 📅 Day 8 – EXTRAS: Built‑in Functions & Java String Handling  
@@ -169,5 +179,6 @@ https://github.com/Ayush-Chouhan1/BridgeLabz-Training/tree/core-java-practice/gc
 - Pushed solutions to *scenario‑based* folder in repository.
 
 *🔗 Code Link:*  
-https://github.com/Ayush-Chouhan1/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase
+[day 9 practice] (https://github.com/Ayush-Chouhan1/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase)
+
 ---
