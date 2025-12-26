@@ -34,22 +34,23 @@
 - Practiced basic Java programs to understand syntax and execution.
 - Added & pushed Java files to GitHub.
 
-*Repository Structure:*
+## 📂 Repository Structure
 
-
+```
 BridgeLabz-Training/
-│── core-java-practice/
-│   │── gcr-codebase/
-│   │   │── arrays/
-│   │   │── control-flow/
-│   │   │── extras/
-│   │   │── methods/
-│   │   │── programming-elements/
-│   │   │── programming-requisites/
-│   │   │── strings/
-│   │── leet-code-codebase/
-│   │── scenario-based-codebase/
-│── README.md
+├── core-java-practice/
+│   ├── gcr-codebase/
+│   │   ├── arrays/
+│   │   ├── control-flow/
+│   │   ├── extras/
+│   │   ├── methods/
+│   │   ├── programming-elements/
+│   │   ├── programming-requisites/
+│   │   └── strings/
+│   ├── leet-code-codebase/
+│   └── scenario-based-codebase/
+└── README.md
+```
 
 *🔗 Repository Structure Link:*  
 [repository structure](https://github.com/Ayush-Chouhan1/BridgeLabz-Training/tree/core-java-practice)
