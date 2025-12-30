@@ -14,7 +14,7 @@ public class TrainReservationQueue {
         // final values
         int totalSeat = 25;
         int available = 25;
-        int booked = 10;
+        int booked = 0;
 
         System.out.println("Welcome to Train Reservation ");
         boolean program = true;
@@ -54,7 +54,7 @@ public class TrainReservationQueue {
                         System.out.println("Invalid entry");
                     }
                 }
-                case 4 ->{
+                case 0 ->{
                     System.out.println("Booked seats : " + booked);
                     System.out.println("Thankyou!!");
                     program = false;
