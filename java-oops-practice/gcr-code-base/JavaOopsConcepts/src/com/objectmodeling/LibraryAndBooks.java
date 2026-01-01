@@ -41,9 +41,9 @@ public class LibraryAndBooks {
 	public static void main(String[] args) {
 		
 		//creating book object(independent object)
-		Book book1=new Book("Java Basics","VishalYadav");
-		Book book2=new Book("Data Structures","Anupam Shukla");
-		Book book3=new Book("Japanese","Anuj Dwivedi");
+		Book book1=new Book("Java Basics","Ayush Chouhan");
+		Book book2=new Book("Data Structures","Arjentina");
+		Book book3=new Book("Japanese","sbji singh");
 		
 		//create library objects
 		Library cityLibrary=new Library();
