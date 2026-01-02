@@ -14,7 +14,7 @@ public class HospitalManagementSystem {
 		p2.assignDoctor("Dr. Mehta");
 		p2.displayInfo();
 
-		InPatient p3 = new InPatient(2, "aaditya", "Hemorrhoid", 10);
+		InPatient p3 = new InPatient(2, "Aaditya", "Hemorrhoid", 10);
 		p3.assignDoctor("Dr. bangali");
 		p3.displayInfo();
 
