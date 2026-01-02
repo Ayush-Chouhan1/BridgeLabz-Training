@@ -1,5 +1,17 @@
 package com.inheritance.multilevelinheritance.retailordermanagement;
 
-public class ShippedOrder {
+class ShippedOrder extends Order {
+    protected String trackingNumber;
 
+    // Constructor
+    ShippedOrder(String orderId, String orderDate, String trackingNumber) {
+        super(orderId, orderDate);
+        this.trackingNumber = trackingNumber;
+    }
+
+    // Overriding method
+    @Override
+    String getOrderStatus() {
+        return "Order Shipped (Tracking No: " + trackingNumber + ")";
+    }
 }
