@@ -1,4 +1,4 @@
-package vehiclerentalapplication;
+package com.vehiclerentalapplication;
 
 public class Customer {
 	private String customerName;
@@ -6,6 +6,9 @@ public class Customer {
 	Customer(String customerName,int contactNumber ){
 		this.customerName=customerName;
 		this.contactNumber=contactNumber;
+	}
+	public Customer(String customerName2, String string) {
+		// TODO Auto-generated constructor stub
 	}
 	public String getCustomerName() {
 		return customerName;
