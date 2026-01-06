@@ -1,4 +1,3 @@
-# BridgeLabz-Training
 
 # BridgeLabz Training — Daily Learning Progress
 
