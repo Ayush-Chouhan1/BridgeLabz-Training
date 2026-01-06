@@ -153,7 +153,7 @@ BridgeLabz-Training/
   - *String Handling Practice Problems*
 - Improved code indentation, naming & comments.
 
-*🔗 Code Link:*  
+## *🔗 Code Link:*  
 [day 8 practice ](https://github.com/Ayush-Chouhan1/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/extras)
 ---
 
@@ -172,15 +172,12 @@ BridgeLabz-Training/
 *Problems Implemented:*
 
 - ☕ *Coffee Counter Chronicles*  
-  Coffee ordering & billing system using switch, GST logic,  
-  and continuous orders using while‑loop until exit.
+
 
 - 🧮 *Maya’s BMI Fitness Tracker*  
-  BMI calculation using formula with category classification via if‑else.
 
-- Pushed solutions to *scenario‑based* folder in repository.
 
-*🔗 Code Link:*  
+## *🔗 Code Link:*  
 [day 9 practice](https://github.com/Ayush-Chouhan1/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase)
 
 
@@ -191,12 +188,12 @@ Practiced daily and maintained clean commits
 
 Followed industry-standard repository structure
 
-📘 Week 2 – Object-Oriented Programming (OOPs) in Java
+## 📘 Week 2 – Object-Oriented Programming (OOPs) in Java
 This week focused on strengthening Object-Oriented Programming skills in Java through hands-on practice, real-world problem modeling, and structured code organization.
 
 ---
 
-📅 Day 1 – Objects and Classes
+## 📅 Day 1 – Objects and Classes
 Date: 26-Dec-2025
 
 Developed a clear understanding of OOP fundamentals.
@@ -223,11 +220,11 @@ ATM / Bank Account Simulation
 Palindrome String Checker
 Movie Ticket Booking System
 Shopping Cart Simulation
-🔗 Code Link: 👉 [Objects and Classes](https://github.com/Ayush-Chouhan1/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-code-base/JavaOopsConcepts/src/com/classandobject)
+## 🔗 Code Link: 👉 [Objects and Classes](https://github.com/Ayush-Chouhan1/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-code-base/JavaOopsConcepts/src/com/classandobject)
 
+---
 
-
-📅 Day 2 – Constructors, Access Modifiers & OOP Practice
+## 📅 Day 2 – Constructors, Access Modifiers & OOP Practice
 Date: 27-Dec-2025
 
 Strengthened understanding of constructors and access control mechanisms.
@@ -252,12 +249,12 @@ University Management System
 Book Library System with EBook subclass
 Bank Account Management System
 Employee Records with Manager subclass
-🔗 Code Link: 👉 [Constructor and Access Modifiers](https://github.com/Ayush-Chouhan1/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-code-base/JavaOopsConcepts/src/com/constructor)
+## 🔗 Code Link: 👉 [Constructor and Access Modifiers](https://github.com/Ayush-Chouhan1/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-code-base/JavaOopsConcepts/src/com/constructor)
 
 
+---
 
-
-📅 Day 3 – Static, Final & Object Behavior
+## 📅 Day 3 – Static, Final & Object Behavior
 Date: 29-Dec-2025
 
 Learned how static members are shared across objects.
@@ -276,12 +273,12 @@ OOP Principles Applied
 Encapsulation
 Proper class design
 Method implementation
-🔗 Code Link:
+## 🔗 Code Link:
 👉 [Java keyword](https://github.com/Ayush-Chouhan1/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-code-base/JavaOopsConcepts/src/com/javakeywords)
 
+---
 
-
-📅 Day 4 – Object Modelling & Class Diagrams
+## 📅 Day 4 – Object Modelling & Class Diagrams
 Date: 30-Dec-2025
 
 Focused on Object-Oriented Design (OOD) and system modeling using UML.
@@ -304,13 +301,13 @@ University Management System
 School Results Application
 Grocery Store Bill Generation Application
 E-commerce Platform with Orders, Customers, and Products
-🔗 Code Link:
+## 🔗 Code Link:
 👉 [Object Modelling and class Diagram](https://github.com/Ayush-Chouhan1/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-code-base/JavaOopsConcepts/src/com/objectmodeling)
 
 
+---
 
-
-📅 Day 5 – OOPs Inheritance (All Types)
+## 📅 Day 5 – OOPs Inheritance (All Types)
 Date: 31-Dec-2025
 
 Studied inheritance as a mechanism for code reuse.
@@ -324,13 +321,13 @@ Key Notes
 Constructors are invoked using the super() keyword.
 Access modifiers control member visibility in subclasses.
 Inheritance improves scalability and maintainability.
-🔗 Code Link:
+## 🔗 Code Link:
 👉 [Inheritance in Java](https://github.com/Ayush-Chouhan1/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-code-base/JavaOopsConcepts/src/com/inheritance)
 
+---
 
 
-
-📅 Day 6 – OOP Principles: Encapsulation, Polymorphism, Interfaces & Abstract Classes
+## 📅 Day 6 – OOP Principles: Encapsulation, Polymorphism, Interfaces & Abstract Classes
 Date: 1-Jan-2026
 
 Encapsulation
@@ -353,26 +350,27 @@ Practice Summary
 Solved multiple OOP-based Java problems.
 Followed clean coding standards and naming conventions.
 Focused on maintainable and readable code.
-🔗 Code Link:
+## 🔗 Code Link:
 👉 [Encapsulation, Polymorphism & Interfaces](https://github.com/Ayush-Chouhan1/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-code-base/JavaOopsConcepts/src/com/encapsulationandpolymorphism)
 
 
 
 
-✅ Week 2 Summary
+## ✅ Week 2 Summary
 Built a strong foundation in Object-Oriented Programming
 Applied OOP concepts using real-world Java programs
 Improved code structure, readability, and design clarity
 Practiced consistent Git and GitHub workflows
-📅 Week 03 – Data Structures & Algorithms
+
+## 📅 Week 03 – Data Structures & Algorithms
 This branch serves as a dedicated space for my ongoing journey in mastering Data Structures and Algorithms (DSA).
 
+---
 
-
-📅 Day 1 – Linked Lists & OOPS Scenarios
+## 📅 Day 1 – Linked Lists & OOPS Scenarios
 Date: 2 January 2026
 
-📘 DSA – Linked List (Singly, Doubly & Circular)
+## 📘 DSA – Linked List (Singly, Doubly & Circular)
 🔹 Topics Covered
 
 Singly Linked List
@@ -408,10 +406,10 @@ Circular Linked List
 Task Scheduler
 Online Ticket Reservation System
 Round Robin Scheduling Algorithm
-🔗 Code Link:
+## 🔗 Code Link:
 👉 [Linked List Programs](https://github.com/Ayush-Chouhan1/BridgeLabz-Training/tree/java-dsa-practice/gcr-code-base/java-dsa-practice/src/com/linkedlist)
 
-☕ Java OOPS – Real-World Scenarios
+## ☕ Java OOPS – Real-World Scenarios
 Topics Covered
 Classes, Objects, Variables & Methods
 Constructors and Constructor Overloading
@@ -419,43 +417,29 @@ Access Modifiers and Encapsulation
 Interfaces and Abstraction
 Inheritance and Polymorphism
 Operator-based business logic
+
 Problems Solved
 Hospital Patient Management System
-Hospital module to register patients, assign doctors, and manage billing.
-Focused on encapsulation, inheritance, and interface-based billing logic.
 
 Vehicle Rental Application
-System to rent bikes, cars, and trucks to customers.
-Implemented vehicle hierarchy and polymorphic rent calculation.
 
 University Course Enrollment System
-Platform for student enrollment and faculty grading.
-Applied inheritance, encapsulated GPA handling, and grading interfaces.
 
 E-Wallet Application
-Digital wallet for loading money and transferring funds.
-Ensured secure balance handling and polymorphic transaction logic.
 
 Smart Home Automation System
-System to control smart devices like lights, fans, and ACs.
-Used appliance inheritance and interface-driven device control.
 
-Practice Summary
-Designed real-world Java systems using OOPS principles
-Applied encapsulation to protect sensitive data
-Used inheritance for hierarchical modeling
-Implemented interfaces to achieve abstraction
-Leveraged polymorphism for dynamic behavior
-🔗 Code Link:
+
+## 🔗 Code Link:
 👉 [Java OOPS – Day 1](https://github.com/Ayush-Chouhan1/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/scenariobased/src/com)
 
 
+---
 
-
-📅 Day 2 – Stack, Queue, Hashing & Advanced OOPS
+## 📅 Day 2 – Stack, Queue, Hashing & Advanced OOPS
 Date: 3 January 2026
 
-📘 DSA – Stack, Queue & Hashing
+## 📘 DSA – Stack, Queue & Hashing
 🔹 Topics Covered
 
 Stacks
@@ -499,10 +483,10 @@ Check for a Pair with Given Sum
 Longest Consecutive Sequence
 Custom Hash Map Implementation
 Two Sum Problem
-🔗 Code Link:
+## 🔗 Code Link:
 👉 [Stack & Queue](https://github.com/Ayush-Chouhan1/BridgeLabz-Training/tree/java-dsa-practice/gcr-code-base/java-dsa-practice/src/com/stackandqueue)  [Hashing Programs](https://github.com/Ayush-Chouhan1/BridgeLabz-Training/tree/java-dsa-practice/gcr-code-base/java-dsa-practice/src/com/hashmapsandhashfucntion)
 
-☕ Java OOPS – Advanced Scenarios
+## ☕ Java OOPS – Advanced Scenarios
 Topics Covered
 Interface-driven architecture
 Secure data handling using encapsulation
@@ -523,12 +507,12 @@ Built backend logic for scalable applications
 Applied polymorphism across vehicle and account types
 Encapsulated sensitive data such as fare, balance, and ratings
 Implemented clean separation of responsibilities
-🔗 Code Link:
+## 🔗 Code Link:
 👉 [Java OOPS – Day 2](https://github.com/Ayush-Chouhan1/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/scenariobased/src/com)
 
+--- 
 
-
-📅 Day 3 – Sorting Algorithms & Enterprise OOPS
+## 📅 Day 3 – Sorting Algorithms & Enterprise OOPS
 Date: 5 January 2026
 
 📘 DSA – Sorting Algorithms
@@ -555,10 +539,14 @@ Best Practices
 Chose sorting algorithms based on data size and constraints
 Applied stable vs unstable sorting concepts
 Optimized performance using divide-and-conquer strategies
-📅 Day 3 – Sorting Algorithms & Enterprise OOPS
+
+---
+
+
+## 📅 Day 3 – Sorting Algorithms & Enterprise OOPS
 Date: 5 January 2026
 
-📘 DSA – Sorting Algorithms
+## 📘 DSA – Sorting Algorithms
 🔹 Topics Covered
 
 Sorting Fundamentals
@@ -593,10 +581,10 @@ Quick Sort – Sort Product Prices
 Selection Sort – Sort Exam Scores
 Heap Sort – Sort Job Applicants by Salary
 Counting Sort – Sort Student Ages
-🔗 Code Link:
+## 🔗 Code Link:
 👉 [Sorting Algorithms](https://github.com/Ayush-Chouhan1/BridgeLabz-Training/tree/java-dsa-practice/gcr-code-base/java-dsa-practice/src/com/sortingalgorithms)
 
-☕ Java OOPS – Enterprise-Style Applications
+## ☕ Java OOPS – Enterprise-Style Applications
 Topics Covered
 Base class design and inheritance
 Interface-based operations
@@ -617,5 +605,5 @@ Modeled enterprise-level Java applications
 Applied strong encapsulation for grades and prices
 Used interfaces for extensibility
 Implemented polymorphic behaviors for users and products
-🔗 Code Link:
+## 🔗 Code Link:
 👉 [Java OOPS – Day 3](https://github.com/Ayush-Chouhan1/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/scenariobased/src/com)
