@@ -194,7 +194,7 @@ Followed industry-standard repository structure
 📘 Week 2 – Object-Oriented Programming (OOPs) in Java
 This week focused on strengthening Object-Oriented Programming skills in Java through hands-on practice, real-world problem modeling, and structured code organization.
 
-
+---
 
 📅 Day 1 – Objects and Classes
 Date: 26-Dec-2025
