@@ -192,7 +192,9 @@ Practiced daily and maintained clean commits
 Followed industry-standard repository structure
 
 📘 Week 2 – Object-Oriented Programming (OOPs) in Java
-This week focused on strengthening Object-Oriented Programming skills in Java through hands-on practice, real-world problem modeling, and structured code organization. Each day built progressively on core OOP principles while following proper Git workflows.
+This week focused on strengthening Object-Oriented Programming skills in Java through hands-on practice, real-world problem modeling, and structured code organization.
+
+
 
 📅 Day 1 – Objects and Classes
 Date: 26-Dec-2025
@@ -223,6 +225,8 @@ Movie Ticket Booking System
 Shopping Cart Simulation
 🔗 Code Link: 👉 [Objects and Classes](https://github.com/Ayush-Chouhan1/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-code-base/JavaOopsConcepts/src/com/classandobject)
 
+
+
 📅 Day 2 – Constructors, Access Modifiers & OOP Practice
 Date: 27-Dec-2025
 
@@ -250,6 +254,9 @@ Bank Account Management System
 Employee Records with Manager subclass
 🔗 Code Link: 👉 [Constructor and Access Modifiers](https://github.com/Ayush-Chouhan1/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-code-base/JavaOopsConcepts/src/com/constructor)
 
+
+
+
 📅 Day 3 – Static, Final & Object Behavior
 Date: 29-Dec-2025
 
@@ -271,6 +278,8 @@ Proper class design
 Method implementation
 🔗 Code Link:
 👉 [Java keyword](https://github.com/Ayush-Chouhan1/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-code-base/JavaOopsConcepts/src/com/javakeywords)
+
+
 
 📅 Day 4 – Object Modelling & Class Diagrams
 Date: 30-Dec-2025
@@ -298,6 +307,9 @@ E-commerce Platform with Orders, Customers, and Products
 🔗 Code Link:
 👉 [Object Modelling and class Diagram](https://github.com/Ayush-Chouhan1/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-code-base/JavaOopsConcepts/src/com/objectmodeling)
 
+
+
+
 📅 Day 5 – OOPs Inheritance (All Types)
 Date: 31-Dec-2025
 
@@ -314,6 +326,9 @@ Access modifiers control member visibility in subclasses.
 Inheritance improves scalability and maintainability.
 🔗 Code Link:
 👉 [Inheritance in Java](https://github.com/Ayush-Chouhan1/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-code-base/JavaOopsConcepts/src/com/inheritance)
+
+
+
 
 📅 Day 6 – OOP Principles: Encapsulation, Polymorphism, Interfaces & Abstract Classes
 Date: 1-Jan-2026
@@ -341,6 +356,9 @@ Focused on maintainable and readable code.
 🔗 Code Link:
 👉 [Encapsulation, Polymorphism & Interfaces](https://github.com/Ayush-Chouhan1/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-code-base/JavaOopsConcepts/src/com/encapsulationandpolymorphism)
 
+
+
+
 ✅ Week 2 Summary
 Built a strong foundation in Object-Oriented Programming
 Applied OOP concepts using real-world Java programs
@@ -348,6 +366,8 @@ Improved code structure, readability, and design clarity
 Practiced consistent Git and GitHub workflows
 📅 Week 03 – Data Structures & Algorithms
 This branch serves as a dedicated space for my ongoing journey in mastering Data Structures and Algorithms (DSA).
+
+
 
 📅 Day 1 – Linked Lists & OOPS Scenarios
 Date: 2 January 2026
@@ -429,6 +449,9 @@ Leveraged polymorphism for dynamic behavior
 🔗 Code Link:
 👉 [Java OOPS – Day 1](https://github.com/Ayush-Chouhan1/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/scenariobased/src/com)
 
+
+
+
 📅 Day 2 – Stack, Queue, Hashing & Advanced OOPS
 Date: 3 January 2026
 
@@ -502,6 +525,8 @@ Encapsulated sensitive data such as fare, balance, and ratings
 Implemented clean separation of responsibilities
 🔗 Code Link:
 👉 [Java OOPS – Day 2](https://github.com/Ayush-Chouhan1/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/scenariobased/src/com)
+
+
 
 📅 Day 3 – Sorting Algorithms & Enterprise OOPS
 Date: 5 January 2026
