@@ -184,7 +184,7 @@ BridgeLabz-Training/
 [day 9 practice](https://github.com/Ayush-Chouhan1/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase)
 
 
-## 📅 Day 12 – Core Java: Scenario-Based Problem Solving ##
+## 📅 Day 11 – Core Java: Scenario-Based Problem Solving ##
 
 *(Date: 30-Dec-2025)*
 *(Focus: Arrays, Loops, Menu Logic & Real-World Scenarios)*
@@ -218,3 +218,9 @@ BridgeLabz-Training/
 - >Movie Ticket Booking App 🎬
 
 - >Rohan’s Library Reminder App 📚
+
+  
+  🔗 Code Link:  
+👉 [Day 11 –  Scenario-Based Core Java Programs](https://github.com/Ayush-Chouhan1/BridgeLabz-Training/tree/core-java-practice/gcr-codebase)
+---
+
