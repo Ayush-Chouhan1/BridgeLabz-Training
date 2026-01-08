@@ -31,3 +31,32 @@ Systematically organized all **Class & Object** programs in the `java-oops-pract
 [Day-1 Class And Object](https://github.com/Ayush-Chouhan1/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-code-base/JavaOopsConcepts/src/com/classandobject)
 
 ---
+
+📅 **Day 2 – Java OOPS: Constructors & Class-Level Concepts**  
+*(Date: 27-Dec-2025)*  
+**Focus:** Constructors, Instance vs Class Variables & Methods
+
+Learned how constructors are used to initialize objects in Java.
+
+Covered:
+- Default constructors
+- Parameterized constructors
+- Constructor behavior during object creation
+
+Understood:
+- Difference between instance variables and static (class-level) variables
+- How static variables share data across objects
+- Instance methods vs static methods
+- Accessing instance members using objects
+- Accessing static members using class names
+
+Maintained clean-code standards with proper formatting and structure.
+
+Organized all constructor and static-related programs in the `java-oops-practice` branch.
+
+🔗 **Code Link:**  
+[Day-2 Constructor, Instance vs Class Variables & Methods](https://github.com/Ayush-Chouhan1/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-code-base/JavaOopsConcepts/src/com/constructor/levelone)
+
+---
+
+
