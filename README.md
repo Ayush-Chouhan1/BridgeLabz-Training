@@ -51,3 +51,25 @@ This day focused on understanding **stack, queue, and hashing techniques** for e
 
 ---
 
+# 📅 Day 3 – Sorting Algorithms  
+
+*(Date: 05-Jan-2026)*  
+**Focus:** DSA – Sorting Techniques  
+
+Today, I learned how **sorting algorithms** help arrange data efficiently.
+
+## Key Learnings
+- Understood why sorting is important.
+- Learned **Bubble Sort** (swaps adjacent elements).
+- Learned **Insertion Sort** (inserts elements in the correct position).
+- Learned **Merge Sort** using divide and conquer.
+- Learned **Quick Sort** using a pivot element.
+- Compared time and space complexity.
+- Understood **stable vs unstable** sorting.
+- Implemented all algorithms using **Java**.
+- Wrote clean and well-structured code.
+- Organized code in the DSA practice branch.
+
+🔗 **Code Link:**  
+👉 [Day 3 – Sorting Algorithms (DSA)](https://github.com/Ayush-Chouhan1/BridgeLabz-Training/tree/java-dsa-practice/gcr-code-base/java-dsa-practice/src/com/sortingalgorithms)
+
