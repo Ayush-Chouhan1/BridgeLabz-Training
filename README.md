@@ -87,3 +87,25 @@ Organized all keyword-based programs systematically in the `java-oops-practice` 
 
 ---
 
+## 📅 Day 4 – Java OOPS: Data Modeling & Object Relationships  
+*(Date: 30-Dec-2025)*  
+**Focus:** Association, Aggregation & Composition  
+
+### What I Learned
+- Data modeling in object-oriented design
+- Object relationships in real-world systems
+- Association between independent objects
+- Aggregation (has-a relationship with independent lifecycle)
+- Composition (strong dependency relationship)
+
+### Practice
+- Designing class diagrams conceptually
+- Implementing real-world examples using Java classes
+
+🔗 **Code Link:**  
+[Day 4 – Data Modeling & Object Relationships](https://github.com/Ayush-Chouhan1/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-code-base/JavaOopsConcepts/src/com/objectmodeling)
+
+---
+
+
+
