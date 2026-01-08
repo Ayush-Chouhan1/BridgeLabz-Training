@@ -1,74 +1,33 @@
--------This is java OOPS practice branch-------
+# BridgeLabz Training — Java OOPS Learning Progress  
+## Week 2: Object-Oriented Programming in Java
 
-📅 Day 9 – Java OOPS: Class & Object
-(Date: 26-Dec-2025) (Focus: Core OOPS Fundamentals- class and objects )
+---
 
--Learned the basic concepts of Class and Object in Java.
+📅 **Day 1 – Java OOPS: Class & Object**  
+*(Date: 26-Dec-2025)*  
+**Focus:** Core OOPS Fundamentals – Classes and Objects
 
--Understood how a class defines structure and behavior, while objects represent real-world entities.
+Started learning the fundamental concepts of Object-Oriented Programming in Java.
 
--Practiced creating classes with variables and methods, and instantiating multiple objects.
+Learned:
+- What is OOPS and why it is used
+- Class and Object concepts
+- Real-world object modeling
+- Creating and accessing objects
 
--Gained clarity on how objects interact using method calls.
+Practiced:
+- Defining classes with variables and methods
+- Creating multiple objects from a class
+- Object interaction through method calls
 
--Focused on writing clean, readable, and well-structured OOPS-based code.
+Followed clean coding practices:
+- Proper naming conventions
+- Readable structure and indentation
+- Consistent formatting
 
--Followed proper naming conventions, indentation, and consistent formatting.
+Systematically organized all **Class & Object** programs in the `java-oops-practice` branch.
 
--Organized all Class & Object programs systematically in the java-oops-practice branch.
+🔗 **Code Link:**  
+[Day-1 Class And Object](https://github.com/Ayush-Chouhan1/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-code-base/JavaOopsConcepts/src/com/classandobject)
 
-🔗 Code Link: 👉 [Day 9- class and objects](https://github.com/Ayush-Chouhan1/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-code-base/JavaOopsConcepts/src/com/classandobject)
-
-
-### 📅 Day 10 – Java OOPS: Constructors & Class-Level Concepts
-
-*(Date: 27-Dec-2025)*
-*(Focus: Constructors, Instance Variables vs Class Variables & Methods)*
-
-Learned the concept of Constructors in Java and understood their role in initializing objects.
-
-Practiced creating default and parameterized constructors to assign initial values to objects.
-
-Understood the difference between instance variables (object-specific data) and class-level (static) variables (shared data).
-
-Implemented programs to observe how static variables maintain a common state across multiple objects.
-
-Learned the distinction between instance methods and class (static) methods, and when to use each.
-
-Gained clarity on accessing instance members using objects and class members using the class name.
-
-Focused on writing clean, readable, and well-structured OOPS-based code.
-
-Followed proper naming conventions, indentation, and consistent formatting across all programs.
-
-Organized all constructor and static concept programs systematically in the java-oops-practice branch.
-
-🔗 Code Link:
-👉 [Day 10 – Constructors & Instance vs Class Concepts](https://github.com/Ayush-Chouhan1/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-code-base/JavaOopsConcepts/src/com/constrcutor/levelone)
-
-
-## 📅 Day 11 – Java OOPS: Core Java Keywords ##
-
-*(Date: 29-Dec-2025)*
-*(Focus: static, final, this, instanceof)*
-
--> Studied essential Java keywords and their role in OOPS-based programming.
-
--> Understood the use of static keyword for class-level variables, methods, and shared behavior.
-
--> Learned how final keyword is used to restrict modification of variables, methods, and classes.
-
--> Practiced using this keyword to refer to the current object and resolve ambiguity between instance variables and parameters.
-
--> Gained clarity on the instanceof operator to check object type at runtime.
-
--> Implemented small programs to observe how these keywords affect object behavior and memory usage.
-
--> Focused on writing clean, readable, and well-structured OOPS-based code.
-
--> Followed proper naming conventions, indentation, and consistent formatting.
-
--> Organized all keyword-based programs systematically in the java-oops-practice branch.
-
-🔗 Code Link:
-👉 [Day 10 – Constructors & Instance vs Class Concepts](https://github.com/Ayush-Chouhan1/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-code-base/JavaOopsConcepts/src/com/javakeywords)
+---
