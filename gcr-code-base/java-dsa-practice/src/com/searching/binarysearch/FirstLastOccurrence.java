@@ -32,7 +32,7 @@ public class FirstLastOccurrence {
 
             if (arr[mid] == target) {
                 result = mid;
-                left = mid + 1;    
+                left = mid + 1;
             }
             else if (arr[mid] < target) {
                 left = mid + 1;
