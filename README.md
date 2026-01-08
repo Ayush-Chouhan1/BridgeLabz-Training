@@ -23,3 +23,31 @@ On this day, I studied **Linked Lists** as a core linear data structure used for
 👉 [Day 1 – Linked List (DSA)](https://github.com/Ayush-Chouhan1/BridgeLabz-Training/tree/java-dsa-practice/gcr-code-base/java-dsa-practice/src/com/linkedlist)
 
 ---
+
+
+## 📅 Day 2 – Data Structures & Algorithms: Stack, Queue & Hashing  
+*(Date: 03-Jan-2026)*  
+**Focus:** DSA Fundamentals – Stack, Queue, HashMap & Hashing  
+
+This day focused on understanding **stack, queue, and hashing techniques** for efficient data processing.
+
+### Key Learnings
+- Studied **Stack** as a linear data structure following the **LIFO** principle.
+- Implemented stack operations such as **push, pop, peek, and isEmpty**.
+- Learned **Queue** as a FIFO-based data structure.
+- Practiced queue operations including **enqueue, dequeue, front, and rear**.
+- Explored practical and real-world use cases of stacks and queues.
+- Understood the concept of **Hashing** for fast data access.
+- Learned how **HashMap** stores key–value pairs using hash functions.
+- Studied collision handling and efficient searching techniques.
+- Implemented Stack, Queue, and HashMap programs using Java.
+- Focused on clean, readable, and well-structured DSA-based code.
+- Maintained consistent naming conventions and formatting.
+- Organized all Stack, Queue, and Hashing programs in the **DSA practice branch**.
+
+🔗 **Code Link:**  
+👉 [Day 2 – Stack, Queue & Hashing (DSA)](https://github.com/Ayush-Chouhan1/BridgeLabz-Training/tree/java-dsa-practice/gcr-code-base/java-dsa-practice/src/com/stackandqueue)
+👉 [Day 2 –  Hashing (DSA)](https://github.com/Ayush-Chouhan1/BridgeLabz-Training/tree/java-dsa-practice/gcr-code-base/java-dsa-practice/src/com/hashmapsandhashfucntion)
+
+---
+
