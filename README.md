@@ -126,6 +126,26 @@ Organized all keyword-based programs systematically in the `java-oops-practice` 
 
 ---
 
+## 📅 Day 6 – Java OOPS: Encapsulation, Polymorphism, Abstract Classes & Interfaces  
+*(Date: 01-Jan-2026)*  
+**Focus:** Encapsulation, Polymorphism, Abstract Classes & Interfaces  
+
+### What I Learned & Implemented
+- Encapsulation using private variables and getters/setters
+- Polymorphism with method overriding
+- Abstract classes for partial abstraction
+- Interfaces to define standard contracts
+
+### Practice
+- Identifying entities and responsibilities
+- Designing classes, methods, and relationships
+- Writing modular and maintainable code
+
+🔗 **Code Links:**  
+👉 [Encapsulation, Polymorphism, Abstract Classes & Interfaces](https://github.com/Ayush-Chouhan1/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-code-base/JavaOopsConcepts/src/com/encapsulationandpolymorphism)
+
+---
+
 
 
 
