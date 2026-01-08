@@ -107,5 +107,26 @@ Organized all keyword-based programs systematically in the `java-oops-practice` 
 
 ---
 
+## 📅 Day 5 – Java OOPS: Inheritance  
+*(Date: 31-Dec-2025)*  
+**Focus:** Inheritance & Code Reusability  
+
+### What I Learned
+- Inheritance and parent–child relationships
+- Single, multilevel, and hierarchical inheritance
+- Method overriding
+- `extends` and `super` keywords
+
+### Practice
+- Reusing code using inheritance
+- Overriding methods for customized behavior
+
+🔗 **Code Link:**  
+👉 [Day 5 – Inheritance](https://github.com/Ayush-Chouhan1/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-code-base/JavaOopsConcepts/src/com/inheritance)
+
+---
+
+
+
 
 
