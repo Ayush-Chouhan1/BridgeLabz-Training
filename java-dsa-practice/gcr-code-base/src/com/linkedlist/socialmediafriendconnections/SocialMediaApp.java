@@ -30,3 +30,5 @@ public class SocialMediaApp {
         sm.displayFriends(1);
     }
 }
+
+
