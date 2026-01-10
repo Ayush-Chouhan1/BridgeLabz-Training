@@ -1,0 +1,22 @@
+package com.medistore;
+
+import java.time.LocalDate;
+
+public class MediStoreApp {
+
+    public static void main(String[] args) {
+
+        Medicine med1 = new Tablet("Paracetamol", 5.0,
+                LocalDate.of(2026, 5, 20));
+
+        Medicine med2 = new Syrup("Cough Syrup", 120.0,
+                LocalDate.of(2026, 3, 10));
+
+        Medicine med3 = new Injection("Insulin", 500.0,
+                LocalDate.of(2026, 2, 1), 50);
+
+        System.out.println("Selling Paracetamol: ₹" + med1.sell(10));
+        System.out.println("Selling Syrup: ₹" + med2.sell(2));
+        System.out.println("Selling Injection: ₹" + med3.sell(1));
+    }
+}
