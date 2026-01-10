@@ -38,3 +38,4 @@ public class WordCountInFile {
         System.out.println("Occurrences of '" + targetWord + "': " + count);
     }
 }
+  
