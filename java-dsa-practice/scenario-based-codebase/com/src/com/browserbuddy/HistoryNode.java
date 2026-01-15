@@ -1,5 +1,11 @@
 package com.browserbuddy;
 
-public class HistoryNode {
+class HistoryNode {
+    String url;
+    HistoryNode prev;
+    HistoryNode next;
 
+    HistoryNode(String url) {
+        this.url = url;
+    }
 }
