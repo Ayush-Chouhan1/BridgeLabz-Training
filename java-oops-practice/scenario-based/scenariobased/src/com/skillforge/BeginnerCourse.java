@@ -1,5 +1,7 @@
 package com.skillforge;
 
+import java.util.List;
+
 class BeginnerCourse extends Course {
 
     public BeginnerCourse(String title, Instructor instructor, List<String> modules) {
