@@ -16,7 +16,7 @@ public class VehicleRentalApplication {
 
         int days = 3;
 
-        System.out.println("Customer: " + customer.getName());
+        System.out.println("Customer: " + customer.getCustomerName());
         System.out.println("Rental Duration: " + days + " days\n");
 
         // Polymorphism in action
