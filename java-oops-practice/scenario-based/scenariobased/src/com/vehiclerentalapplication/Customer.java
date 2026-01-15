@@ -8,7 +8,6 @@ public class Customer {
 		this.contactNumber=contactNumber;
 	}
 	public Customer(String customerName2, String string) {
-		// TODO Auto-generated constructor stub
 	}
 	public String getCustomerName() {
 		return customerName;
