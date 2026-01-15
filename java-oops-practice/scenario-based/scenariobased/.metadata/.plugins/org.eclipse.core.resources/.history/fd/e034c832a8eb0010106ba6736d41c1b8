@@ -1,9 +1,0 @@
-package com.petpal;
-
-public interface IIntractable {
-	
-	void feed();
-	void play();
-	void sleep();
-
-}
