@@ -607,3 +607,103 @@ Used interfaces for extensibility
 Implemented polymorphic behaviors for users and products
 ## 🔗 Code Link:
 👉 [Java OOPS – Day 3](https://github.com/Ayush-Chouhan1/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/scenariobased/src/com)
+
+---
+
+## Day 4 – Data Structures: Searching, StringBuffer, StringBuilder, File Handling
+(Date: 06-01-2026) (Focus: String Handling, Searching & File Handling)
+
+- Learned mutable string handling using StringBuffer and StringBuilder, along with their performance differences.
+- Studied efficient data searching methods such as linear search and binary search.
+- Practiced file handling with BufferedReader and focused on writing clean, optimized Java code following core Java best practices.
+
+## 🔗 Code Repository
+- **Scenario-Based OOPS Practice**  
+  👉 [Scenario Based](https://github.com/Ayush-Chouhan1/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/scenariobased/src/com)
+  
+ 👉 [Stringbuffer, Stringbuilder, and Searching](https://github.com/Ayush-Chouhan1/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/gcr-code-base/src/com)
+
+---
+
+## Day 5 – Data Structures: Time & Space Complexity
+(Date: 07-01-2026) (Focus: Analyzing Algorithm Efficiency)
+
+- Studied time and space complexity, explored common Big-O notations, and compared algorithms based on efficiency and scalability.
+- **Scenario-Based OOPS Practice**  
+  👉 [Scenario Based: parkease](https://github.com/Ayush-Chouhan1/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/scenariobased/src/com)
+  
+🔗 **Code Link:** 👉 [Day 19 – Data Structures: Time & Space Complexity](https://github.com/Ayush-Chouhan1/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/gcr-code-base/src/com)
+
+---
+
+## Day 6 – Real-World Scenario-Based OOP Problems  
+**Date:** 08-Jan-2026  
+
+###  Topics Covered  
+- Implemented real-world OOP scenarios  
+- Applied Encapsulation, Inheritance & Polymorphism  
+- Built scalable, modular designs  
+- Improved system design & interview readiness  
+
+🔗 **Code:**  
+👉 [Scenario-Based OOP Implementations](https://github.com/Ayush-Chouhan1/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/scenariobased/src/com)
+
+## Day 7 – Scenario-Based DSA Problems  
+**Date:** 10-Jan-2026  
+
+### Topics Covered  
+- Applied DSA to real-world scenarios  
+- Focused on efficient data structure selection  
+
+### Implementations  
+- **BookShelf:** HashMap + LinkedList  
+- **BrowserBuddy:** Doubly Linked List + Stack  
+- **AmbulanceRoute:** Circular Linked List  
+
+🔗 **Code:**  
+👉 [Scenario-Based DSA Implementations](https://github.com/Ayush-Chouhan1/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-based-codebase/com/src/com)
+
+## Day 8 – Scenario-Based DSA Problems  
+**Date:** 12-Jan-2026  
+
+### Topics Covered  
+- Applied DSA to real-world scenarios  
+- Applied OOPs to real-world scenarios  
+
+### Implementations  
+- **CallCenter** –  Queue + HashMap
+- **TrainCompanion** - Doubly Linked List
+- **TextEditor** – Stack
+- **TrafficManager** - Circular Linked List + Queue
+- **HomeNest** – Smart Home Device Manager
+- **BudgetWise** – Personal Finance Tracker
+- **GameBox** – Mobile Game Distribution Platform
+
+🔗 **Code:**  
+👉 [Scenario-Based DSA Implementations](https://github.com/Ayush-Chouhan1/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-based-codebase/com/src/com)
+
+👉 [Scenario-Based OOPs Implementations](https://github.com/Ayush-Chouhan1/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/scenariobased/src/com)
+
+--
+
+## Day 9 – Scenario-Based DSA Problems  
+**Date:** 13-Jan-2026  
+
+### Topics Covered  
+- Applied DSA to real-world scenarios  
+- Applied OOPs to real-world scenarios  
+
+### Implementations  
+- **SmartCheckout** - Supermarket Billing Queue (Queue + HashMap)
+- **ParcelTracker** - Delivery Chain Management (Singly Linked List)
+- **ExamProctor** - Online Exam Review System (Stack + HashMap + Functions)
+- **Bird Sanctuary – Java OOP Scenario**
+- **PayXpress** – Utility Bill Payment System
+
+🔗 **Code:**  
+👉 [Scenario-Based DSA Implementations](https://github.com/Ayush-Chouhan1/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-based-codebase/com/src/com/day3)
+
+👉 [Scenario-Based OOPs Implementations](https://github.com/Ayush-Chouhan1/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/scenariobased/src/com)
+
+
+# Week 4 : Java Collections
