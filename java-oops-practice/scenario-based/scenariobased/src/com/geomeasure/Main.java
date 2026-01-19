@@ -17,7 +17,6 @@ public class Main {
         LineComparator.compareLines(line1, line2);
     }
 
-    // 🧩 Method to create Line object
     private static Line createLine(Scanner sc) {
         System.out.print("x1: ");
         double x1 = sc.nextDouble();

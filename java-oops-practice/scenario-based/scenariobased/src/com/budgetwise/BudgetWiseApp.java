@@ -1,22 +1,26 @@
 package com.budgetwise;
 
 import java.util.*;
+import java.time.LocalDate;
 
 public class BudgetWiseApp {
 
     public static void main(String[] args) {
 
-        Map<String, Double> categories = new HashMap<>();
-        categories.put("Food", 5000.0);
-        categories.put("Travel", 3000.0);
+        Map<String, Double> limits = new HashMap<>();
+        limits.put("Food", 5000.0);
+        limits.put("Travel", 3000.0);
 
-        Budget budget = new MonthlyBudget(30000, 20000, categories);
+        IAnalyzable budget = new MonthlyBudget("January", 20000, limits);
 
-        budget.addTransaction(new Transaction(2500, "expense", "Food"));
-        budget.addTransaction(new Transaction(3500, "expense", "Travel"));
-        budget.addTransaction(new Transaction(5000, "expense", "Food"));
+        ((MonthlyBudget) budget).addTransaction(
+                new Transaction(2000, "EXPENSE", LocalDate.now(), "Food")
+        );
+        ((MonthlyBudget) budget).addTransaction(
+                new Transaction(4000, "EXPENSE", LocalDate.now(), "Travel")
+        );
 
-        budget.generateReport();     // Polymorphism
+        budget.generateReport();
         budget.detectOverspend();
     }
 }

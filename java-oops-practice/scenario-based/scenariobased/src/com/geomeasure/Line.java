@@ -29,11 +29,11 @@ class LineComparator {
         System.out.println("Length of Line 2: " + len2);
 
         if (len1 == len2) {
-            System.out.println("➡ Both lines are equal in length");
+            System.out.println("Both lines are equal in length");
         } else if (len1 > len2) {
-            System.out.println("➡ Line 1 is longer");
+            System.out.println("Line 1 is longer");
         } else {
-            System.out.println("➡ Line 2 is longer");
+            System.out.println("Line 2 is longer");
         }
     }
 }

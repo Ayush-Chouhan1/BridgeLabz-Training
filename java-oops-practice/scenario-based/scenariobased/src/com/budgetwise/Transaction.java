@@ -5,15 +5,15 @@ import java.time.LocalDate;
 class Transaction {
 
     private double amount;
-    private String type;        // income / expense
+    private String type;      
     private LocalDate date;
     private String category;
 
-    public Transaction(double amount, String type, String category) {
+    public Transaction(double amount, String type, LocalDate date, String category) {
         this.amount = amount;
         this.type = type;
+        this.date = date;
         this.category = category;
-        this.date = LocalDate.now();
     }
 
     public double getAmount() {
@@ -22,6 +22,10 @@ class Transaction {
 
     public String getType() {
         return type;
+    }
+
+    public LocalDate getDate() {
+        return date;
     }
 
     public String getCategory() {
