@@ -1,38 +1,44 @@
 package com.gamebox;
 
-class Game implements IDownloadable {
+abstract class Game implements IDownloadable {
 
-    protected String title;
-    protected String genre;
+    private String title;
+    private String genre;
     protected double price;
-    protected double rating;
+    private double rating;
 
-    Game(String title, String genre, double rating) {
-        this(title, genre, 0.0, rating);
-    }
-
-    Game(String title, String genre, double price, double rating) {
+    // Constructor for free and paid games
+    public Game(String title, String genre, double price, double rating) {
         this.title = title;
         this.genre = genre;
         this.price = price;
         this.rating = rating;
     }
 
+    // Getters 
+    public String getTitle() {
+        return title;
+    }
+
+    public String getGenre() {
+        return genre;
+    }
+
+    public double getPrice() {
+        return price;
+    }
+
+    public double getRating() {
+        return rating;
+    }
+
+    // Seasonal offer using operators
     public void applyDiscount(double percent) {
         price = price - (price * percent / 100);
     }
 
     
     public void download() {
-        System.out.println(title + " downloaded successfully.");
-    }
-
-    
-    public void playDemo() {
-        System.out.println("Playing demo of " + title);
-    }
-
-    public double getPrice() {
-        return price;
+        System.out.println(" Downloading " + title);
     }
 }

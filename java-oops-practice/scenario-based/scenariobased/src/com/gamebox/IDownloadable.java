@@ -1,5 +1,11 @@
 package com.gamebox;
 
-public class IDownloadable {
-
+interface IDownloadable {
+    void download();
+    void playDemo();
 }
+
+
+
+
+

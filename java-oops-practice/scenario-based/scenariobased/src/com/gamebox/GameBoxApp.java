@@ -5,17 +5,21 @@ public class GameBoxApp {
 
     public static void main(String[] args) {
 
-        Game arcade = new ArcadeGame("Street Rush", 299, 4.5);
-        Game strategy = new StrategyGame("War Tactics", 499, 4.8);
+        Game g1 = new ArcadeGame("Speed Racer", 100, 4.5);
+        Game g2 = new StrategyGame("GTA V", 200, 4.8);
 
-        arcade.playDemo();
-        strategy.playDemo();
+        // Demo play 
+        g1.playDemo();
+        g2.playDemo();
 
-        arcade.applyDiscount(20);
+        // Apply seasonal discount
+        g2.applyDiscount(20); // operator usage
 
-        User user = new User("Shanaya");
-        user.buyGame(arcade);
-        user.buyGame(strategy);
+        User user = new User("Ayush");
+
+        user.purchaseGame(g1);
+        user.purchaseGame(g2);
+
         user.showLibrary();
     }
 }
