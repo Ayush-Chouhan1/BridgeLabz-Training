@@ -7,12 +7,14 @@ public class BudgetWiseApp {
 
     public static void main(String[] args) {
 
+    	   // map storing items
         Map<String, Double> limits = new HashMap<>();
         limits.put("Food", 5000.0);
         limits.put("Travel", 3000.0);
 
         IAnalyzable budget = new MonthlyBudget("January", 20000, limits);
 
+        // adding transaction
         ((MonthlyBudget) budget).addTransaction(
                 new Transaction(2000, "EXPENSE", LocalDate.now(), "Food")
         );
@@ -20,6 +22,7 @@ public class BudgetWiseApp {
                 new Transaction(4000, "EXPENSE", LocalDate.now(), "Travel")
         );
 
+        // displaying report
         budget.generateReport();
         budget.detectOverspend();
     }
