@@ -51,6 +51,8 @@ class Bag implements Storable {
 			b.displayInfo();
 		}
 	}
+	
+	// ball count
 
 	public int getBallCount() {
 		return balls.size();

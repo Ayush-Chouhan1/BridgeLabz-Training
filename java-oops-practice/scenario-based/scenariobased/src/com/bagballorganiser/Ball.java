@@ -11,6 +11,7 @@ class Ball implements Storable {
         this.color = color;
         this.size = size;
     }
+    
 
     public String getId() {
         return id;
