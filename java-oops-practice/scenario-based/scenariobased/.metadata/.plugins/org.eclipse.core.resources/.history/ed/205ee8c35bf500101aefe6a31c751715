@@ -1,0 +1,76 @@
+package com.geomeasure;
+import java.util.ArrayList;
+
+class LineComparison {
+
+    private Line line1;
+    private Line line2;
+
+    public LineComparison(Line line1, Line line2) {
+        this.line1 = line1;
+        this.line2 = line2;
+    }
+
+    public void compare() {
+        double len1 = line1.calculateLength();
+        double len2 = line2.calculateLength();
+
+        if (len1 == len2) {
+            System.out.println("Both lines are of equal length.");
+        } else if (len1 > len2) {
+            System.out.println("First line is longer.");
+        } else {
+            System.out.println("Second line is longer.");
+        }
+    }
+}
+
+public class Line {
+  private double x1, y1, x2, y2;
+
+    public Line(double x1, double y1, double x2, double y2) {
+        this.x1 = x1;
+        this.y1 = y1;
+        this.x2 = x2;
+        this.y2 = y2;
+    }
+
+    public double calculateLength() {
+        return Math.sqrt(Math.pow(this.x2 - this.x1, 2) +
+                Math.pow(this.y2 - this.y1, 2));
+    }
+    
+}
+
+class LineManager {
+
+    private ArrayList<Line> lines = new ArrayList<>();
+
+    public void addLine(Line line) {
+        lines.add(line);
+    }
+
+    public void compareAllLines() {
+
+        if (lines.size() < 2) {
+            System.out.println("At least two lines are required for comparison.");
+            return;
+        }
+
+        for (int i = 0; i < lines.size() - 1; i++) {
+            for (int j = i + 1; j < lines.size(); j++) {
+
+                System.out.println(
+                        "\nComparing Line " + (i + 1) +
+                        " and Line " + (j + 1)
+                );
+
+                LineComparison comparison =
+                        new LineComparison(lines.get(i), lines.get(j));
+
+                comparison.compare();
+            }
+        }
+    }
+}
+

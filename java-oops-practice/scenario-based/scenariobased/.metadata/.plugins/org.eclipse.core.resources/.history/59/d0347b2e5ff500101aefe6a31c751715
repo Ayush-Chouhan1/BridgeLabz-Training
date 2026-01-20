@@ -1,0 +1,25 @@
+package com.gamebox;
+
+
+public class GameBoxApp {
+
+    public static void main(String[] args) {
+
+        Game g1 = new ArcadeGame("Speed Racer", 100, 4.5);
+        Game g2 = new StrategyGame("Empire Builder", 200, 4.8);
+
+        // Demo play (polymorphism)
+        g1.playDemo();
+        g2.playDemo();
+
+        // Apply seasonal discount
+        g2.applyDiscount(20); // operator usage
+
+        User user = new User("Ayush");
+
+        user.purchaseGame(g1);
+        user.purchaseGame(g2);
+
+        user.showLibrary();
+    }
+}

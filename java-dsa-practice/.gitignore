@@ -1,0 +1,13 @@
+/.metadata/
+/.metadata/
+# Eclipse
+.metadata/
+.classpath
+.project
+.settings/
+
+# Compiled files
+bin/
+
+# OS files
+.DS_Store

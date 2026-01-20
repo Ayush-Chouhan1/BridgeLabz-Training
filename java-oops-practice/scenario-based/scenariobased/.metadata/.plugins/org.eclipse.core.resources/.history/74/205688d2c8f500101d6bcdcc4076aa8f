@@ -1,0 +1,16 @@
+package com.flipkey;
+
+public class flipkey {
+
+	public static String cleanseAndInvert(String input) {
+		
+		return input;
+	}
+	
+	public static void main(String[] args) {
+		
+		String word = "ayush";
+		int string = (int) word.charAt(0);
+		System.out.println(string);
+	}
+}

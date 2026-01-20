@@ -1,0 +1,4 @@
+INDEX VERSION 1.134+C:\Users\ayush\Desktop\Java Programming Workspace\java-oops-practice\scenario-based\scenariobased\.metadata\.plugins\org.eclipse.jdt.core
+3072734965.index
+1865797976.index
+1067094681.index
