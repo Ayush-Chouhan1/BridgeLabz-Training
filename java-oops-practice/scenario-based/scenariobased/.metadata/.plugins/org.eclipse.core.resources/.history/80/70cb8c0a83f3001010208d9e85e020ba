@@ -1,7 +1,0 @@
-package com.xpresspay;
-
-public interface IPayable {
-	void pay();
-	void senReminder();
-
-}
