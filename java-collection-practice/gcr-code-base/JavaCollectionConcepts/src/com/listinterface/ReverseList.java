@@ -6,13 +6,13 @@ public class ReverseList {
 
 	public static List<Integer> reverseList(List<Integer> list) {
 
-		int i =0, j = list.size()-1;
-		while(i<j) {
-			int temp = list.get(i);
-			list.set(i, list.get(j));		
-			list.set(j, temp);
-			i++;
-			j--;
+		int start =0, end = list.size()-1;
+		while(start<end) {
+			int temp = list.get(start);
+			list.set(start, list.get(end));		
+			list.set(end, temp);
+			start++;
+			end--;
 			}
 		return list;
 		
