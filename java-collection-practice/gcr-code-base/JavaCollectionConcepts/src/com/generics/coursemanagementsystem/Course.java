@@ -1,4 +1,4 @@
-package com.coursemanagementsystem;
+package com.generics.coursemanagementsystem;
 import java.util.List;
 
 abstract class CourseType {
