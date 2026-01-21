@@ -1,4 +1,4 @@
-package com.dynamicmarketplace;
+package com.generics.dynamicmarketplace;
 
 interface Category{
 	String getCategoryName();
