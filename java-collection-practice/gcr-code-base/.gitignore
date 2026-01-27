@@ -1,12 +1,17 @@
 /.metadata/
 # Eclipse
 .metadata/
+.settings/
 .classpath
 .project
-.settings/
+.mvn/
+.xml
 
-# Compiled files
+# Java
+*.class
 bin/
+target/
 
-# OS files
+# OS
 .DS_Store
+Thumbs.db
