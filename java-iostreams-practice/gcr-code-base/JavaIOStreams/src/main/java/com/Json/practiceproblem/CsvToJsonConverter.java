@@ -1,30 +1,50 @@
 package com.Json.practiceproblem;
 
-import java.io.File;
-import java.util.List;
-import java.util.Map;
 
+import com.fasterxml.jackson.core.JsonProcessingException;
 import com.fasterxml.jackson.databind.ObjectMapper;
-import com.fasterxml.jackson.dataformat.csv.CsvMapper;
-import com.fasterxml.jackson.dataformat.csv.CsvSchema;
 
-public class CsvToJsonConverter {
+public class CarToJson {
 
-	public static void main(String[] args) throws Exception {
+	// inner class
+	static class Car {
+		private String brand;
+		private String model;
+		private int price;
 
-		// CSV mapper and schema (with header)
-		CsvMapper csvMapper = new CsvMapper();
-		CsvSchema schema = CsvSchema.emptySchema().withHeader();
+		public Car(String brand, String model, int price) {
+			this.brand = brand;
+			this.model = model;
+			this.price = price;
+		}
 
-		// Read CSV into List of Maps
-		List<Object> csvData = csvMapper.readerFor(Map.class).with(schema).readValues(new File("src/main/java/com/JavaIOStreams/countcsvrows/employees.csv"))
-				.readAll();
+		public String getBrand() {
+			return brand;
+		}
 
-		// Convert to JSON
-		ObjectMapper jsonMapper = new ObjectMapper();
-		String json = jsonMapper.writerWithDefaultPrettyPrinter().writeValueAsString(csvData);
+		public String getModel() {
+			return model;
+		}
 
-		// Print JSON
-		System.out.println(json);
+		public int getPrice() {
+			return price;
+		}
+
 	}
+	
+	
+
+	public static void main(String[] args) throws JsonProcessingException {
+
+		// create java object
+		Car car = new Car("Maruti", "Siera", 1300000);
+
+		// convert java object to json
+		ObjectMapper mapper = new ObjectMapper();
+		String json = mapper.writerWithDefaultPrettyPrinter().writeValueAsString(car);
+
+		System.out.println(json);
+
+	}
+
 }
