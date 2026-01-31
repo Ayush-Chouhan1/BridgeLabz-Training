@@ -26,7 +26,7 @@ public class SaveCarToJSON {
             // Create ObjectMapper
             ObjectMapper mapper = new ObjectMapper();
 
-            // ✅ Specify full path for the JSON file
+            // Specify full path for the JSON file
             String filePath = "src/main/java/com/json/cartojson/cars.json";
             File file = new File(filePath);
 
