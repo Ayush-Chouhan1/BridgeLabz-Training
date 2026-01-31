@@ -10,7 +10,7 @@ public class FilterJsonByAge {
 		// JSON array input
 		String json = """
 				[
-				    { "name": "Vikash", "age": 22 },
+				    { "name": "Ayush", "age": 22 },
 				    { "name": "Amit", "age": 28 },
 				    { "name": "Rahul", "age": 30 },
 				    { "name": "Neha", "age": 24 }
