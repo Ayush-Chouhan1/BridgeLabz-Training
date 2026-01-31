@@ -10,7 +10,7 @@ public class LargeCSVReader {
     private static final int BATCH_SIZE = 100;
 
     public static void main(String[] args) {
-        String file = "src/main/java/com/JavaIOStreams/mergecsv/student_merged.csv";
+        String file = "src/main/java/com/JavaIOStreams/filtercsv/student_merged.csv";
         String line;
         int totalCount = 0;
 
