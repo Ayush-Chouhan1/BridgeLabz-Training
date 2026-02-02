@@ -14,6 +14,7 @@ public class SmartHomeAuto {
 
 	SmartLight light = new SmartLight();
 
+	//Lambda expression
 	LightAction dueToMotion = () -> System.out.println("Light on");
 	LightAction DayTime = () -> System.out.println("Light off");
 	LightAction voiceCommand = () -> System.out.println("Light on using voice command");
