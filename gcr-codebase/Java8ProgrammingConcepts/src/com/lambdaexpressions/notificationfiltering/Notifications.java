@@ -1,4 +1,4 @@
-package notificationfiltering;
+package com.lambdaexpressions.notificationfiltering;
 
 import java.util.*;
 import java.util.function.*;
