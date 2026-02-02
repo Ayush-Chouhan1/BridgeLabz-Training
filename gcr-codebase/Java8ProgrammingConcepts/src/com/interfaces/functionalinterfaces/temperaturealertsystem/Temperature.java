@@ -10,7 +10,6 @@ public class Temperature {
 		int temperature = 39;
 		int threshold = 37;
 		
-		
 		Predicate<Integer> warning = (x) -> x > threshold;
 		if (warning.test(temperature)) {
 			System.out.println(" Alert! Temperature is too high: " + temperature);
