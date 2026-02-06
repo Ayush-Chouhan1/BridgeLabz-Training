@@ -149,3 +149,46 @@ Today, we focused on **Java Exception Handling**, understanding the exception hi
 👉 [Day 4 - Java Exception Handling](https://github.com/Ayush-Chouhan1/BridgeLabz-Training/tree/java-collection-practice/java-collection-practice/gcr-code-base/JavaCollectionConcepts/src/com/exception)
 
 ---
+# 📅 Day 5 – Regex & JUnit Testing 
+**(Date: 21-Jan-2026)**
+
+### Overview
+ we explored **Java Regular Expressions** for pattern matching and validation, followed by **JUnit 5 Testing** to write structured and automated unit tests.
+
+#### Topics Covered
+
+##### 🔹 Regular Expressions (Regex)
+- Java `java.util.regex` API
+- `Pattern` and `Matcher` classes
+- Regex metacharacters and quantifiers
+- Validation using regex:
+  - Email addresses
+  - Password strength
+  - Phone numbers
+- Regex operations:
+  - `find()`, `matches()`, `replaceAll()`
+- Data extraction:
+  - Dates
+  - Hashtags
+  - Domain names
+
+##### 🔹 JUnit 5 Testing
+- JUnit fundamentals and testing lifecycle
+- JUnit 5 annotations:
+  - `@Test`, `@BeforeEach`, `@AfterEach`
+  - `@BeforeAll`, `@AfterAll`
+- Implemented:
+  - Parameterized tests
+  - Repeated tests
+  - Exception testing using `assertThrows`
+- Assertions:
+  - `assertEquals`, `assertTrue`, `assertAll`
+- Followed **Arrange–Act–Assert (AAA)** testing pattern
+- Structured test classes and automated execution
+
+
+🔗 **Code Links:**   
+👉 [Day 5 - Regex](https://github.com/Ayush-Chouhan1/BridgeLabz-Training/tree/java-collection-practice/java-collection-practice/gcr-code-base/JavaCollectionConcepts/src/com/regex)   
+👉 [Day 5 - Junit](https://github.com/Ayush-Chouhan1/BridgeLabz-Training/tree/java-collection-practice/java-collection-practice/gcr-code-base/Junit)
+
+---
