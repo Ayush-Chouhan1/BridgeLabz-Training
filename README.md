@@ -100,3 +100,29 @@ Learned and practiced the **Java Collections Framework** in depth:
 👉 [Day 2 - Java Collections Framework](https://github.com/Ayush-Chouhan1/BridgeLabz-Training/tree/java-collection-practice/java-collection-practice/gcr-code-base/JavaCollectionConcepts/src/com)
 
 ---
+
+## 📅 Day 3 – Java I/O Streams 
+**(Date: 19-Jan-2026)** 
+
+
+### Overview
+Today, we explored **Java I/O Streams**, focusing on file operations, object serialization, and memory streams. The key concepts include Byte Streams, Character Streams, and best practices for handling files efficiently.
+
+#### Topics Covered:
+- **Byte Streams**: `FileInputStream`, `FileOutputStream`
+- **Character Streams**: `FileReader`, `FileWriter`
+- **Buffered Streams**: `BufferedInputStream`, `BufferedOutputStream`, `BufferedReader`, `BufferedWriter`
+- **Object Streams**: `ObjectInputStream`, `ObjectOutputStream` for serialization
+- **In-memory Streams**: `ByteArrayInputStream`, `ByteArrayOutputStream`
+- **Bridge Streams**: `InputStreamReader`, `OutputStreamWriter`
+- **Try-with-resources** for resource management and file performance optimizations.
+
+#### Practical Problems:
+- **File Copy** using Byte Streams.
+- **Serialization** and **Deserialization** of objects.
+- Efficient **Large File Reading** with buffering.
+
+🔗 **Code Links:**   
+👉 [Day 3 - Java IO Streams](https://github.com/Ayush-Chouhan1/BridgeLabz-Training/tree/java-collection-practice/java-collection-practice/gcr-code-base/JavaCollectionConcepts/src/com/streams)
+
+---
