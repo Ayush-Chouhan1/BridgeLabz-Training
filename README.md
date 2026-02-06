@@ -1,7 +1,7 @@
 # BridgeLabz Training — Java 8 Learning Progress
 
 This repository contains my Java learning and practice work completed as part of **BridgeLabz Training**.  
-The focus is on **clean code**, **design principles**, **design patterns**, **Java 8 features**, and **multithreading**, aligned with real-world software development practices.
+The focus is on **clean code**, **design principles**, **design patterns**, and **multithreading**, aligned with real-world software development practices.
 
 ---
 
