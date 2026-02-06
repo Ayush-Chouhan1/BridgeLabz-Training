@@ -120,7 +120,18 @@ Today, I learned how **sorting algorithms** help arrange data efficiently.
 
 ---
 
+### 📅 Day 7 – Scenario Based Problem Solving  
+**(Date: 12-Jan-2026)**
 
+- Solved 5 Dsa scenario based problems
+  - CallCenter – Customer Queue Manager
+  - TrainCompanion – Compartment Navigation System
+  - TextEditor – Undo/Redo Functionality
+  - TrafficManager – Roundabout Vehicle Flow
+  - BookShelf – Library Organizer 
+
+🔗 **Scenario Codebase:**  
+👉 [Scenario-Based DSA Practice](https://github.com/Ayush-Chouhan1/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-based-codebase/com/src/com/day3)
 
 
 
