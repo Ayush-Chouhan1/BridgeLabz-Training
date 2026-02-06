@@ -46,3 +46,33 @@ Today focused on **CSV data processing in Java**, covering reading, writing, val
 👉 [Day 1 – CSV Data Handling](https://github.com/Ayush-Chouhan1/BridgeLabz-Training/tree/java-iostreams-practice/java-iostreams-practice/gcr-code-base/JavaIOStreams/src/main/java/com/JavaIOStreams)
 
 ---
+
+## 📅 **Day 2 – JSON Data Handling in Java**  
+**(Date: 24-Jan-2026)**  
+**Branch:** `java-iostreams-practice`
+
+### Overview  
+Explored **JSON data handling in Java**, focusing on object mapping, file operations, validation, and transformations using standard JSON libraries.
+
+### Topics Covered
+- JSON fundamentals and structure
+- Creating JSON objects and arrays
+- Java ↔ JSON conversion (serialization & deserialization)
+- Dynamic JSON parsing
+- Reading and writing JSON files
+- JSON schema validation
+- Data operations:
+  - Filtering JSON data
+  - Merging JSON structures
+  - Transforming JSON formats
+- Solved hands-on JSON-based problems
+
+### Practical Work
+- Implemented multiple JSON utilities
+- Practiced real-world data transformation scenarios
+- Committed and pushed all work
+
+🔗 **Code Link:**  
+👉 [Day 2 – JSON Data Handling](https://github.com/Ayush-Chouhan1/BridgeLabz-Training/tree/java-iostreams-practice/java-iostreams-practice/gcr-code-base/JavaIOStreams/src/main/java/com/Json)
+
+---
