@@ -107,6 +107,20 @@ Today, I learned how **sorting algorithms** help arrange data efficiently.
 
 ---
 
+### 📅 Day 6 – Scenario based problem solving  
+**(Date: 10-Jan-2026)**
+
+- Solved 3 Dsa scenario based problems
+  - BookShelf – Library Organizer
+  - Browser Buddy – Tab History Manager
+  - AmbulanceRoutte – Emergency Patient Navigation 
+
+🔗 **Scenario Codebase:**  
+👉 [Scenario-Based DSA Practice](https://github.com/Ayush-Chouhan1/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-based-codebase/com/src/com)
+
+---
+
+
 
 
 
