@@ -71,7 +71,42 @@ Today, I learned how **sorting algorithms** help arrange data efficiently.
 - Organized code in the DSA practice branch.
 
 🔗 **Code Link:**  
-👉 [Day 3 – Sorting Algorithms (DSA)](https://github.com/Ayush-Chouhan1/BridgeLabz-Training/tree/java-dsa-practice/gcr-code-base/java-dsa-practice/src/com/sortingalgorithms)
+👉 [Day 3 – Sorting Algorithms (DSA)](https://github.com/Ayush-Chouhan1/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/gcr-code-base/dsa/src/com/sortingalgorithms)
+
+---
+### 📅 Day 4 – Searching Algorithms & Java Utilities  
+**(Date: 06-Jan-2026)**
+- Studied Searching Algorithms:
+  - Linear Search
+  - Binary Search
+- Understood searching logic and comparison-based searching.
+- Studied Java mutable string classes:
+  - `StringBuilder`
+  - `StringBuffer`
+- Learned Java input handling using:
+  - `FileReader`
+  - `InputStreamReader`
+- Practiced implementations and solved problems on each concept.
+- Committed and pushed all work.
+- 🔗 **Code Link:**  
+👉 [Day 4 - Searching & Java Utilities](https://github.com/Ayush-Chouhan1/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/gcr-code-base/dsa/src/com/searching)
+
+---
+
+### 📅 Day 5 – Algorithm Runtime Analysis & Big-O Notation  
+**(Date: 07-Jan-2026)**
+- Studied algorithm runtime analysis.
+- Understood Big-O notation and its importance.
+- Analyzed time complexity of algorithms.
+- Analyzed space complexity and memory usage.
+- Learned best, worst, and average case complexities.
+- Studied practical guidelines for optimizing Java code.
+- Committed and pushed all work.
+- 🔗 **Code Link:**  
+👉 [Runtime Analysis & Big-O Notation](https://github.com/Ayush-Chouhan1/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/gcr-code-base/dsa/src/com/algorithmruntimeanalysis)
+
+---
+
 
 
 
