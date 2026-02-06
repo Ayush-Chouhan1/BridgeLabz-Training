@@ -4,30 +4,7 @@ This repository contains my Java learning and practice work completed as part of
 The focus is on **clean code**, **design principles**, **design patterns**, **Java 8 features**, and **multithreading**, aligned with real-world software development practices.
 
 ---
-## 📁 Project Structure
 
-```text
-BridgeLabz-Training/
-│
-├── java8-programming-practice/
-│   ├── gcr-codebase/
-│   │   └── Java8Concepts/
-│   │       └── src/
-│   │           └── com/
-│   │               ├── lambdaexpression/
-│   │               ├── methodreferences/
-│   │               ├── interfaces/
-│   │               ├── streamsapi/
-│   │               ├── collectors/
-│   │               └── smartcitytransport/
-│   │
-│   ├── leet-code-codebase/
-│   └── scenario-based-codebase/
-│
-└── README.md
-```
-
----
 
 
 ## 🧠 Day 1 – Introduction to Design Principles & UML
