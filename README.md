@@ -192,3 +192,37 @@ Today, we focused on **Java Exception Handling**, understanding the exception hi
 👉 [Day 5 - Junit](https://github.com/Ayush-Chouhan1/BridgeLabz-Training/tree/java-collection-practice/java-collection-practice/gcr-code-base/Junit)
 
 ---
+
+# 📅 Day 6 – Annotations & Reflection (Date: 22-Jan-2026)
+
+## Overview
+we delved into **Java Annotations** and **Reflection**, focusing on both built-in and custom annotations, and learning how to retrieve and work with annotations at runtime. We also explored the fundamentals of **Reflection** to inspect and manipulate classes and objects dynamically.
+
+### Topics Covered
+
+#### 🔹 Annotations
+- Standard annotations: `@Override`, `@Deprecated`, `@SuppressWarnings`
+- Custom annotations with attributes and defaults
+- **Repeatable annotations** using `@Repeatable`
+- Retrieved annotation metadata using **Reflection API**
+- Field and method validation using annotations
+- Role-based access control simulation with custom annotations
+- **Annotation-driven utilities** for:
+  - JSON mapping
+  - Caching mechanisms
+
+#### 🔹 Reflection
+- Java Reflection fundamentals:
+  - Inspecting classes, fields, methods, and constructors
+  - Dynamic object creation and method invocation
+- Accessed **private** and **static** members via Reflection
+- Advanced Reflection use cases:
+  - **Execution-time logging**
+  - **JSON generation**
+  - **Dependency injection simulation**
+
+🔗 **Code Links:**   
+👉 [Day 6 - Reflections](https://github.com/Ayush-Chouhan1/BridgeLabz-Training/tree/java-collection-practice/java-collection-practice/gcr-code-base/JavaCollectionConcepts/src/com/reflection)   
+👉 [Day 6 - Annotations](https://github.com/Ayush-Chouhan1/BridgeLabz-Training/tree/java-collection-practice/java-collection-practice/gcr-code-base/JavaCollectionConcepts/src/com/annotations)
+
+---
