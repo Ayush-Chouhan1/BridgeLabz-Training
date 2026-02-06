@@ -127,6 +127,10 @@ Focus on concurrency, performance, and thread safety.
 - Deadlock (conceptual understanding)
 
 - 
+  🔗 **Code Link:**  
+👉 [Day 3 – Java multithreading Practice](https://github.com/Ayush-Chouhan1/BridgeLabz-Training/tree/java-design-pattern-practice/gcr-code-base/JavaMultithreadingConcepts/src/main/com)
+
+  
 
 ---
 
