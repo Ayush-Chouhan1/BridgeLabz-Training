@@ -126,3 +126,26 @@ Today, we explored **Java I/O Streams**, focusing on file operations, object ser
 👉 [Day 3 - Java IO Streams](https://github.com/Ayush-Chouhan1/BridgeLabz-Training/tree/java-collection-practice/java-collection-practice/gcr-code-base/JavaCollectionConcepts/src/com/streams)
 
 ---
+
+## 📅 Day 4 – Exception Handling 
+**(Date: 20-Jan-2026)**
+
+### Overview
+Today, we focused on **Java Exception Handling**, understanding the exception hierarchy, and learning how to handle errors effectively using `try`, `catch`, and `finally`.
+
+#### Topics Covered:
+- **Exception Hierarchy**: Differentiated between checked and unchecked exceptions.
+- **Error Handling**: Used `try-catch`, `finally`, and multiple `catch` blocks.
+- **Granular Error Handling**: Applied nested `try-catch` for specific error management.
+- **Throw & Throws**: Learned how to create and propagate exceptions.
+- **Custom Exceptions**: Designed exceptions for business rules.
+- **Try-with-Resources**: Automated resource management to avoid leaks.
+
+#### Practical Problems:
+- Handled common runtime exceptions.
+- Solved scenario-based problems using exception handling.
+
+🔗 **Code Links:**   
+👉 [Day 4 - Java Exception Handling](https://github.com/Ayush-Chouhan1/BridgeLabz-Training/tree/java-collection-practice/java-collection-practice/gcr-code-base/JavaCollectionConcepts/src/com/exception)
+
+---
