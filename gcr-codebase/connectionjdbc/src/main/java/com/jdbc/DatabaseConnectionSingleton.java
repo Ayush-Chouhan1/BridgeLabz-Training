@@ -6,9 +6,9 @@ public class DatabaseConnectionSingleton {
 
 	private static DatabaseConnectionSingleton instance;
 	private Connection connection;
-	private static final String URL = "jdbc:mysql://localhost:3306/mydb";
+	private static final String URL = "jdbc:mysql://localhost:3306/employee_management";
 	private static final String USER = "root";
-	private static final String PASSWORD = "your_password";
+	private static final String PASSWORD = "root";
 
 	private DatabaseConnectionSingleton() throws SQLException {
 		try {
